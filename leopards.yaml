@@ -1,15 +1,13 @@
 team: Leopards
 
-manager: Nora
+manager: peter
 
-<<<<<<< HEAD
-Coach: Nicholas
-=======
-Coach: Melissa
->>>>>>> d2c818f (Edit Leopards)
+Coach: Rocket
 
 members:
 - Linda
 - William
 - David
 - Olivia
+- Drax
+- Groot
